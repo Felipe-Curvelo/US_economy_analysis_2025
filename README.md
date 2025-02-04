@@ -34,4 +34,4 @@ And the analysis reveal many things, between them that the government spending i
 
 ![alt text](images/Government_spending.jpg)
 
-The complete analysis can be found [here]([https://www.example.com](https://medium.com/@curvelo.felipe20/u-s-economy-analysis-how-things-are-going-until-now-ea70e6ad1de3)).
+The complete analysis can be found [here](https://medium.com/@curvelo.felipe20/u-s-economy-analysis-how-things-are-going-until-now-ea70e6ad1de3).
